@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is RIHAZ RAHEEM
 =====================================================================================================================================
 
-Data Scientist | Machine Learning Engineer
-------------------------------------------
+Data Scientist | Machine Learning Engineer -RAG, Semantic Search & Computer Vision Systems
+------------------------------------------------------------------------------------------
 
 Results-driven data professional with 4+ years of experience in analytics, machine learning, and data science. Skilled in Python and end-to-end ML development, including preprocessing, feature engineering, model training, and evaluation. Hands-on with Sentence Transformers, FAISS, TF-IDF, YOLOv8, and TensorFlow. Strong background delivering scalable, data-driven solutions across structured and unstructured datasets.
 
