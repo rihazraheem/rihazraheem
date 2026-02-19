@@ -1,10 +1,21 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is RIHAZ RAHEEM
 =====================================================================================================================================
 
-Data Scientist | Machine Learning Engineer -RAG, Semantic Search & Computer Vision Systems
-------------------------------------------------------------------------------------------
+ML & Data Science | Applied AI Engineer | LLM & RAG Systems
+-----------------------------------------------------------
 
-Results-driven data professional with 4+ years of experience in analytics, machine learning, and data science. Skilled in Python and end-to-end ML development, including preprocessing, feature engineering, model training, and evaluation. Hands-on with Sentence Transformers, FAISS, TF-IDF, YOLOv8, and TensorFlow. Strong background delivering scalable, data-driven solutions across structured and unstructured datasets.
+Results-driven data professional with 4+ years of experience across machine learning, data science, and analytics, currently focused on building reliable LLM-powered applications.
+
+My work centers on Retrieval-Augmented Generation (RAG) systems that deliver verifiable answers from private data. I design end-to-end AI pipelines including document ingestion, hybrid retrieval, reranking, grounded response enforcement, and evaluation using measurable metrics.
+
+In addition to LLM systems, I develop classical ML solutions for prediction, computer vision, and structured data problems — emphasizing model performance, interpretability, and deployment readiness.
+
+Core strengths:
+• LLM & RAG application development
+• Retrieval evaluation & hallucination mitigation
+• End-to-end ML pipelines
+• Computer vision (tracking & detection)
+• Data analysis & predictive modeling
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://rihaz-portfolio.onrender.com/index)
